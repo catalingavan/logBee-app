@@ -1,4 +1,4 @@
-# [![Logbee](https://github.com/logBee-net/logBee-app/assets/39127098/d1436229-983d-41e7-bcff-7288601bf2d0)](https://logbee.net)
+# [![Logbee](https://github.com/catalingavan/logbee-app/assets/39127098/d1436229-983d-41e7-bcff-7288601bf2d0)](https://logbee.net)
 
 Logbee is a logging aggregator, exceptions tracking and Application Performance Monitoring server. <br/>
 It provides an intuitive user-interface, allowing developers to access the information and other useful metrics in real-time.
@@ -45,5 +45,5 @@ Examples of integration applications can be found on the [logbee-integrations-ex
 Here is a snapshot of the Logbee dashboard, showing how logs are displayed in real-time:
 
 <table><tr><td>
-    <img alt="User interface" src="https://github.com/logBee-net/logBee-app/assets/39127098/44c8686b-bc24-4c4e-9fd8-155da9826a08" />
+    <img alt="User interface" src="https://github.com/catalingavan/logbee-app/assets/39127098/44c8686b-bc24-4c4e-9fd8-155da9826a08" />
 </td></tr></table>

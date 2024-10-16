@@ -10,7 +10,7 @@
     "Provider": "MongoDb",
     "MongoDb": {
       "ConnectionString": "mongodb://logbee.mongodb.dev:27017?socketTimeoutMS=5000&connectTimeoutMS=5000",
-      "DatabaseName": "LogBeeFrontend"
+      "DatabaseName": "LogbeeFrontend"
     }
   },
   "Smtp": {

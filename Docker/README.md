@@ -12,7 +12,7 @@ C:\logbee-net\logbee-app\Docker> docker-compose up
 C:\logbee-net\logbee-app\Docker> docker-compose down
 
 # Authentication token,
-# a JWT signed with the value from frontend.logBee.json@$.Authorization.HS256Secret
+# a JWT signed with the value from frontend.logbee.json@$.Authorization.HS256Secret
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e30.HP79qro7bvfH7BneUy5jB9Owc_5D2UavFDulRETAl9E
 
 # logbee.Frontend endpoint
@@ -32,6 +32,6 @@ app.UseKissLogMiddleware(options => {
 });
 ```
 
-![Logbee login](https://github.com/logBee-net/logBee-app/assets/39127098/43d80638-bf38-4e2f-9b7c-8aef0c1ce4ed)
+![Logbee login](https://github.com/catalingavan/logbee-app/assets/39127098/43d80638-bf38-4e2f-9b7c-8aef0c1ce4ed)
 
-![Running docker-compose](https://github.com/logBee-net/logBee-app/assets/39127098/895ae32f-f546-4004-a66e-ed64027250b4)
+![Running docker-compose](https://github.com/catalingavan/logbee-app/assets/39127098/895ae32f-f546-4004-a66e-ed64027250b4)

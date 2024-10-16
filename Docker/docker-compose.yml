@@ -12,7 +12,7 @@ services:
     restart: unless-stopped
     volumes:
       - ./backend.appsettings.json:/app/appsettings.json
-      - ./backend.logBee.json:/app/Configuration/logBee.json
+      - ./backend.logbee.json:/app/Configuration/logbee.json
     ports:
       - "44088:80"
     links:
@@ -24,7 +24,7 @@ services:
     restart: unless-stopped
     volumes:
       - ./frontend.appsettings.json:/app/appsettings.json
-      - ./frontend.logBee.json:/app/Configuration/logBee.json
+      - ./frontend.logbee.json:/app/Configuration/logbee.json
     ports:
       - "44080:80"
     links:
